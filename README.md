@@ -5,5 +5,5 @@ Mental health disorders (MHD) are spread everywhere. Nearly 800 million people l
 
 Learn more about the dataset > https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016
 
- https://user-images.githubusercontent.com/97614389/172569662-17cc0542-2405-4249-a6a0-b300771cacb2.png![image](https://user-images.githubusercontent.com/99809486/172597310-4b2db194-1164-4adc-9549-0fc5ec7494d0.png)
+
 
