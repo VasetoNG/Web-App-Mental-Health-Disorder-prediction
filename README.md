@@ -15,3 +15,7 @@ Develop a web application to help assess the risk of whether an individual curre
 ## Machine learning models
 
 ![ML models](https://user-images.githubusercontent.com/99809486/172601978-f52f4791-5405-43a3-a6ea-6fefb4203fcc.svg)
+
+## Web App for MHD prediction - check it out and test yourself
+
+https://share.streamlit.io/fatall01/final_project_mental_heath_disorder_prediction/main/MHD_app.py
