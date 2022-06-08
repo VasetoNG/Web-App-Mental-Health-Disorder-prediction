@@ -9,3 +9,5 @@ Learn more about the dataset > https://www.kaggle.com/datasets/osmi/mental-healt
 
 ## Aim of the project
 Develop a web application to help assess the risk of whether an individual currently has a MHD
+
+![Aproach](https://user-images.githubusercontent.com/99809486/172601376-a9892639-7c86-47a3-bd03-a850dcbf2ed4.svg)
